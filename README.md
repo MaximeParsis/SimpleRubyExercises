@@ -1,0 +1,1 @@
+Little simple exercises to get familiar with Ruby.
