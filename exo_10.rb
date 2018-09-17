@@ -1,0 +1,1 @@
+# Écris un programme exo_10.rb qui demande l'année de naissance à l'utilisateur, et qui va ressortir l'age que l'utilisateur a eu en 2017.
