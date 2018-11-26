@@ -1,2 +1,2 @@
-Week 0 at The Hacking Project!
-Little exercises to get familiar with Ruby.
+# Simple Ruby Exercises for the "Week 0" at The Hacking Project!
+* Just to get familiar with Ruby.
